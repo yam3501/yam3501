@@ -8,6 +8,9 @@
 
 <h3 align="center">TryHackMe Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/blue.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/linux.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/streak7.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/mrrobot.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/adventofcyber5.svg" width="100px" height="100px" />
 </div>
