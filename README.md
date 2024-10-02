@@ -22,9 +22,9 @@
 <br>
 <br>
 
-![winter262005's Stats](https://github-readme-stats.vercel.app/api?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![yam3501's Stats](https://github-readme-stats.vercel.app/api?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![winter262005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yam3501&theme=vue-dark&hide_border=true)
+![yam3501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yam3501&theme=vue-dark&hide_border=true)
 
-![winter262005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![yam3501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br>
