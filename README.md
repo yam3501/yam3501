@@ -8,8 +8,8 @@
 
 <h3 align="center">TryHackMe Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/mrrobot.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/adventofcyber5.svg" width="100px" height="100px" />
 </div>
 <br>
 <br>
