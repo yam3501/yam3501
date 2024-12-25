@@ -28,10 +28,14 @@
 <br>
 <br>
 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
 ![yam3501's Stats](https://github-readme-stats.vercel.app/api?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![yam3501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yam3501&theme=vue-dark&hide_border=true)
 
 ![yam3501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <br>
