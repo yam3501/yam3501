@@ -16,6 +16,8 @@
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/streak7.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/mrrobot.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/adventofcyber5.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/introtooffensivesecurity.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/aoc5.svg" width="100px" height="100px" />
 </div>
 
 <h3 align="center">AWS Community Badges:</h3>
