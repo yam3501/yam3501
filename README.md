@@ -6,7 +6,7 @@
 
 <h3 align="center">TryHackMe Profile:</h3>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/M4LWhere.png" alt="TryHackMe Profile" width="300px" />
+  <img src="https://tinyurl.com/m4lwhere" alt="TryHackMe Profile" width="300px" />
 </p>
 
 <h3 align="center">TryHackMe Badges:</h3>
