@@ -20,6 +20,11 @@
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/aoc5.svg" width="100px" height="100px" />
 </div>
 
+<h3 align="center">Cisco Badges:</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://github.com/yam3501/yam3501/blob/main/badges/endpoint-security.png" width="100px" height="100px" />
+</div>
+
 <h3 align="center">AWS Community Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/yam3501/yam3501/blob/main/badges/aws-cloud-clubs-machine-learning-camper.png" width="100px" height="100px" />
