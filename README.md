@@ -18,6 +18,7 @@
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/adventofcyber5.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/introtooffensivesecurity.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/aoc5.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/introtowebsecurity.svg" width="100px" height="100px" />
 </div>
 
 <h3 align="center">Cisco Badges:</h3>
