@@ -3,11 +3,22 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" alt="rust" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/> </a> </p>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="center">TryHackMe Profile:</h3>
 <p align="center">
@@ -30,25 +41,23 @@
 
 <h3 align="center">Cisco Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://github.com/yam3501/yam3501/blob/main/badges/endpoint-security.png" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/endpoint-security.png" width="100px" height="100px" />
 </div>
-
 <h3 align="center">AWS Community Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://github.com/yam3501/yam3501/blob/main/badges/aws-cloud-clubs-machine-learning-camper.png" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/aws-cloud-clubs-machine-learning-camper.png" width="100px" height="100px" />
 </div>
 
-<br>
-<br>
-
+<h3 align="center">ISC2 Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-
-![yam3501's Stats](https://github-readme-stats.vercel.app/api?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![yam3501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yam3501&theme=vue-dark&hide_border=true)
-
-![yam3501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/isc2.png" width="100px" height="100px" />
 </div>
-
+<br>
+<br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  
+  ![yam3501's Stats](https://github-readme-stats.vercel.app/api?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![yam3501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yam3501&theme=vue-dark&hide_border=true)
+  ![yam3501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yam3501&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 <br>
