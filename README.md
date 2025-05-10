@@ -2,7 +2,12 @@
 <h3 align="center">A passionate security researcher from India</h3>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" alt="rust" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <h3 align="center">TryHackMe Profile:</h3>
 <p align="center">
