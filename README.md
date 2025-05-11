@@ -39,6 +39,7 @@
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/burpsuite.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/networkfundamentals.svg" width="100px" height="100px" />
   <img src="https://github.com/yam3501/yam3501/blob/main/badges/hashcracker.svg" width="100px" height="100px" />
+  <img src="https://github.com/yam3501/yam3501/blob/main/badges/metasploit.svg" width="100px" height="100px" />
 </div>
 
 <h3 align="center">Cisco Badges:</h3>
